@@ -1,18 +1,1 @@
-{
-  "name": "deptic-vulnerable-test",
-  "version": "1.0.0",
-  "description": "Intentionally vulnerable Node.js project for Deptic testing",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "4.17.1",
-    "lodash": "4.17.15",
-    "axios": "0.21.1",
-    "jsonwebtoken": "8.5.1",
-    "minimist": "1.2.0",
-    "node-fetch": "2.6.0",
-    "moment": "2.29.1"
-  }
-}
+{\n  \"name\": \"deptic-vulnerable-test\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Intentionally vulnerable Node.js project for Deptic testing\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"5.2.1\",\n    \"lodash\": \"4.18.1\",\n    \"axios\": \"1.20.0\",\n    \"jsonwebtoken\": \"9.0.3\",\n    \"minimist\": \"1.2.8\",\n    \"node-fetch\": \"3.3.2\",\n    \"moment\": \"2.31.0\"\n  }\n}
